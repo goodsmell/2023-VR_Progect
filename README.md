@@ -50,8 +50,8 @@ GIF Images
 
 ## 라이센스
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+MIT &copy; [NoHack](mailto:jane043112@gmail.com)
 
-[C#]: https://github.com/JeongEon8/2023-VR_Project/assets/113885866/9bae8459-6a6f-4381-b614-76b0cb10e67f
+[C#]: img width="80%" https://github.com/JeongEon8/2023-VR_Project/assets/113885866/9bae8459-6a6f-4381-b614-76b0cb10e67f
 [Unity]: https://github.com/JeongEon8/2023-VR_Project/assets/113885866/5b729ac5-0aad-40be-a7e7-c4734bd34631
 [Meta]: https://github.com/JeongEon8/2023-VR_Project/assets/113885866/52a156ea-e79c-46c5-bbff-dbf6e0fdbd85
