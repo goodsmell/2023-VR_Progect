@@ -5,7 +5,7 @@
 
 <p align="center">
   <br>
-  ![도시어부로고](https://github.com/JeongEon8/2023-VR_Project/assets/113885866/8772364c-dbd4-4874-87df-0495e82b9aba)
+![도시어부로고](https://github.com/JeongEon8/2023-VR_Project/assets/113885866/8772364c-dbd4-4874-87df-0495e82b9aba)
   <br>
 </p>
 
