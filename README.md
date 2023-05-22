@@ -6,8 +6,6 @@
   <br>
 </p>
 
-목차
-
 ## 프로젝트 소개
 
 <p align="justify">
@@ -22,9 +20,9 @@ GIF Images
 
 ## 기술 스택
 
-|     C#     |    Unity   |   Meta   |
-| :--------: | :--------: | :------: |
-|   ![C#]    |  ![Unity]  | ![Meta]  |
+|   C#   |  Unity  |   Meta   |
+| :----: | :-----: | :------: |
+|<img width="30%" src="https://github.com/JeongEon8/2023-VR_Project/assets/113885866/9bae8459-6a6f-4381-b614-76b0cb10e67f"/>|<img width="80%" src="https://github.com/JeongEon8/2023-VR_Project/assets/113885866/5b729ac5-0aad-40be-a7e7-c4734bd34631"/>|<img width="50%" src="https://github.com/JeongEon8/2023-VR_Project/assets/113885866/52a156ea-e79c-46c5-bbff-dbf6e0fdbd85"/>|
 
 <br>
 
@@ -51,7 +49,3 @@ GIF Images
 ## 라이센스
 
 MIT &copy; [NoHack](mailto:jane043112@gmail.com)
-
-[C#]: img width="80%" https://github.com/JeongEon8/2023-VR_Project/assets/113885866/9bae8459-6a6f-4381-b614-76b0cb10e67f
-[Unity]: https://github.com/JeongEon8/2023-VR_Project/assets/113885866/5b729ac5-0aad-40be-a7e7-c4734bd34631
-[Meta]: https://github.com/JeongEon8/2023-VR_Project/assets/113885866/52a156ea-e79c-46c5-bbff-dbf6e0fdbd85
