@@ -1,8 +1,5 @@
 # 2023-VR_Project
 2023년 1학기 혼합현실 팀프로젝트
-
-# 프로젝트 이름
-
 <p align="center">
   <br>
   <img width="80%" src="https://github.com/JeongEon8/2023-VR_Project/assets/113885866/8772364c-dbd4-4874-87df-0495e82b9aba"/>
@@ -54,10 +51,3 @@ GIF Images
 ## 라이센스
 
 MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
