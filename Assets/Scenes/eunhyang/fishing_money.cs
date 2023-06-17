@@ -8,6 +8,8 @@ public class fishing_money : MonoBehaviour
     TMP_Text myMoney;
     public int count = 0;
     public AudioSource audioSource;
+    public GameObject first;
+    public GameObject next;
 
 
     // Start is called before the first frame update
@@ -54,6 +56,12 @@ public class fishing_money : MonoBehaviour
          other.gameObject.SetActive(false); //아이템 비활성화 
          audioSource.Play();
 
+        }
+     if(count == 200)
+        {
+            count = 0;
+            first.gameObject.SetActive(false);
+            next.gameObject.SetActive(true);
         }
 
     }
