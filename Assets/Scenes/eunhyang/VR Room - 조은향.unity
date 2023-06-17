@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -374,6 +378,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -428,6 +436,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -605,6 +617,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -659,6 +675,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -835,6 +855,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -1074,6 +1098,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -1579,6 +1607,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -1879,6 +1911,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -2196,6 +2232,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -2250,6 +2290,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2427,6 +2471,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -2481,6 +2529,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2663,6 +2715,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -2892,6 +2948,83 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &318859739
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 478203364}
+    m_Modifications:
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Name
+      value: SardineSkinWithController (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.689
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.647
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
 --- !u!1001 &322552547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2902,6 +3035,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -2957,6 +3094,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3133,6 +3274,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -3362,6 +3507,74 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &346975128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 346975131}
+  - component: {fileID: 346975130}
+  - component: {fileID: 346975129}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &346975129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346975128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &346975130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346975128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &346975131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346975128}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &364578160
 GameObject:
   m_ObjectHideFlags: 0
@@ -3375,6 +3588,7 @@ GameObject:
   - component: {fileID: 364578164}
   - component: {fileID: 364578163}
   - component: {fileID: 364578162}
+  - component: {fileID: 364578166}
   m_Layer: 0
   m_Name: LeftHand Controller
   m_TagString: Untagged
@@ -3660,7 +3874,19 @@ MonoBehaviour:
       m_Calls: []
   m_SelectEntered:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 364578166}
+        m_TargetAssemblyTypeName: money, Assembly-CSharp
+        m_MethodName: select
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_SelectExited:
     m_PersistentCalls:
       m_Calls: []
@@ -3936,6 +4162,20 @@ MonoBehaviour:
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &364578166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364578160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff036dcefecead4596f1ce95528b374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMoney: {fileID: 1138747933}
+  count: 0
 --- !u!1001 &376013197
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3946,6 +4186,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -4001,6 +4245,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4209,6 +4457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -4263,6 +4515,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4603,6 +4859,7 @@ Transform:
   - {fileID: 1645207941}
   - {fileID: 578894556}
   - {fileID: 1636467850}
+  - {fileID: 1543314822}
   m_Father: {fileID: 1492773258}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4616,6 +4873,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -4671,6 +4932,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4950,6 +5215,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -5004,6 +5273,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5181,6 +5454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -5235,6 +5512,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5418,7 +5699,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &630355374
 Transform:
   m_ObjectHideFlags: 0
@@ -5512,6 +5793,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -5566,6 +5851,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5742,6 +6031,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -6016,6 +6309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -6070,6 +6367,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6375,6 +6676,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -6429,6 +6734,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6608,6 +6917,7 @@ GameObject:
   - component: {fileID: 712900740}
   - component: {fileID: 712900739}
   - component: {fileID: 712900738}
+  - component: {fileID: 712900742}
   m_Layer: 0
   m_Name: RightHand Controller
   m_TagString: Untagged
@@ -6893,7 +7203,19 @@ MonoBehaviour:
       m_Calls: []
   m_SelectEntered:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 712900742}
+        m_TargetAssemblyTypeName: money, Assembly-CSharp
+        m_MethodName: select
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_SelectExited:
     m_PersistentCalls:
       m_Calls: []
@@ -7169,6 +7491,20 @@ MonoBehaviour:
     m_Reference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &712900742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712900736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff036dcefecead4596f1ce95528b374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMoney: {fileID: 1138747933}
+  count: 0
 --- !u!1001 &773131657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7334,6 +7670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -7388,6 +7728,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7565,6 +7909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -7619,6 +7967,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7796,6 +8148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -7850,6 +8206,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -8027,6 +8387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -8081,6 +8445,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -8304,6 +8672,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -8544,6 +8916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -8598,6 +8974,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -8775,6 +9155,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -8829,6 +9213,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -9005,6 +9393,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -9245,6 +9637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -9299,6 +9695,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -9475,6 +9875,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -9739,6 +10143,156 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1138747931
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1138747932}
+  - component: {fileID: 1138747934}
+  - component: {fileID: 1138747933}
+  - component: {fileID: 1138747935}
+  m_Layer: 5
+  m_Name: Money
+  m_TagString: fish
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1138747932
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138747931}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2093887958}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -0.038}
+  m_SizeDelta: {x: 0.5, y: 0.1748}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1138747933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138747931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 0.08
+  m_fontSizeBase: 0.08
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0.05029905}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1138747934
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138747931}
+  m_CullTransparentMesh: 1
+--- !u!114 &1138747935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138747931}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff036dcefecead4596f1ce95528b374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMoney: {fileID: 1138747933}
+  count: 0
 --- !u!1001 &1192988881
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9749,6 +10303,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -9804,6 +10362,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -9980,6 +10542,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -10209,6 +10775,107 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1260236773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1260236777}
+  - component: {fileID: 1260236776}
+  - component: {fileID: 1260236775}
+  - component: {fileID: 1260236774}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1260236774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260236773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1260236775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260236773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 1
+--- !u!223 &1260236776
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260236773}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1260236777
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260236773}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0.03}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2093887958}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 2.362, y: 0.648}
+  m_SizeDelta: {x: 1.1104, y: 0.2438}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1268410233
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10219,6 +10886,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -10274,6 +10945,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11319,6 +11994,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -11557,6 +12236,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -11797,6 +12480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -11851,6 +12538,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -12090,7 +12781,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
-      value: SardineSkinWithDemoScript
+      value: fish
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -12400,6 +13095,168 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!1 &1543314821 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a,
+    type: 3}
+  m_PrefabInstance: {fileID: 318859739}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1543314822 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a,
+    type: 3}
+  m_PrefabInstance: {fileID: 318859739}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1543314823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543314821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InteractionManager: {fileID: 139200558}
+  m_Colliders: []
+  m_InteractionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 4
+  m_DistanceCalculationMode: 1
+  m_SelectMode: 0
+  m_CustomReticle: {fileID: 0}
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_OnFirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnLastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnSelectCanceled:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnActivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnDeactivate:
+    m_PersistentCalls:
+      m_Calls: []
+  m_AttachTransform: {fileID: 0}
+  m_UseDynamicAttach: 0
+  m_MatchAttachPosition: 1
+  m_MatchAttachRotation: 1
+  m_SnapToColliderVolume: 1
+  m_AttachEaseInTime: 0.15
+  m_MovementType: 2
+  m_VelocityDamping: 1
+  m_VelocityScale: 1
+  m_AngularVelocityDamping: 1
+  m_AngularVelocityScale: 1
+  m_TrackPosition: 1
+  m_SmoothPosition: 0
+  m_SmoothPositionAmount: 5
+  m_TightenPosition: 0.5
+  m_TrackRotation: 1
+  m_SmoothRotation: 0
+  m_SmoothRotationAmount: 5
+  m_TightenRotation: 0.5
+  m_ThrowOnDetach: 1
+  m_ThrowSmoothingDuration: 0.25
+  m_ThrowSmoothingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_ThrowVelocityScale: 1.5
+  m_ThrowAngularVelocityScale: 1
+  m_ForceGravityOnDetach: 0
+  m_RetainTransformParent: 1
+  m_AttachPointCompatibilityMode: 0
+  m_StartingSingleGrabTransformers: []
+  m_StartingMultipleGrabTransformers: []
+  m_AddDefaultGrabTransformers: 1
+--- !u!114 &1543314824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543314821}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c5509290f06bbe45ac488905815a340, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &1543314825
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543314821}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1553153958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12410,6 +13267,10 @@ PrefabInstance:
     - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithController (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
@@ -12465,6 +13326,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -12641,6 +13506,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -12966,6 +13835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -13205,6 +14078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -13259,6 +14136,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -13435,6 +14316,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -13675,6 +14560,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -13729,6 +14618,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -13906,6 +14799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -13960,6 +14857,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -14137,6 +15038,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -14191,6 +15096,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -14367,6 +15276,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -14607,6 +15520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -14661,6 +15578,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -14905,6 +15826,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -14959,6 +15884,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -15167,6 +16096,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -15407,6 +16340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -15645,6 +16582,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -15885,6 +16826,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -16123,6 +17068,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -16363,6 +17312,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -16602,6 +17555,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithController (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 162542, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -16656,6 +17613,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472372, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11407132, guid: 604c6a2a7f9c3484a86af004a7dcaf6a, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -16832,6 +17793,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -17072,6 +18037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -17300,6 +18269,83 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2093887957
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2093887958}
+  - component: {fileID: 2093887960}
+  - component: {fileID: 2093887959}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2093887958
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093887957}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1138747932}
+  m_Father: {fileID: 1260236777}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.0805, y: -0.0061}
+  m_SizeDelta: {x: 0.339, y: 0.1418}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2093887959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093887957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.21960784}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2093887960
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093887957}
+  m_CullTransparentMesh: 1
 --- !u!1 &2103078661
 GameObject:
   m_ObjectHideFlags: 0
@@ -17341,6 +18387,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -17581,6 +18631,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
+      objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -17819,6 +18873,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
@@ -18104,6 +19162,10 @@ PrefabInstance:
     - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_Name
       value: SardineSkinWithDemoScript (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 159700, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
+      propertyPath: m_TagString
+      value: fish
       objectReference: {fileID: 0}
     - target: {fileID: 412992, guid: 4111a63ec6a85c744a305e1dfd0869f9, type: 3}
       propertyPath: m_RootOrder
