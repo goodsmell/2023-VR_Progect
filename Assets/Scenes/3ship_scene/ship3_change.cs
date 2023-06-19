@@ -9,7 +9,7 @@ public class ship3_change : MonoBehaviour
 
 
     TMP_Text myMoney;
-    public int count = 0;
+    public int count = 800;
     public AudioSource audioSource;
 
 

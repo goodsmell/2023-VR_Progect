@@ -46,8 +46,8 @@ public class respawn_ship2 : MonoBehaviour
     public void OnSelectExited(GameObject Fishingrods)
     {
         target = Fishingrods.GetComponent<Transform>();
-        target.position = new Vector3(2.0f, 1.0f, -0.4f);
-        target.rotation = Quaternion.Euler(-40, 90, -90);
+        target.position = new Vector3(2.5f, 1.7f, -0.9f);
+        target.rotation = Quaternion.Euler(-50, 90, -90);
     }
 
     public void OnActivated()
